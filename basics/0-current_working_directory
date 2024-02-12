@@ -1,4 +1,2 @@
 #!/bin/bash
 pwd
-touch ~/output.txt
-echo "Hey there" > ~/output.txt
