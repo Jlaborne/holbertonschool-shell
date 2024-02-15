@@ -1,0 +1,5 @@
+#!/bin/bash
+printf '%x\n' $DECIMALif [  ]; then
+    
+fi
+
